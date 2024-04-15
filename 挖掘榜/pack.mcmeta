@@ -1,0 +1,10 @@
+{
+    "pack": {
+      "pack_format": 16,
+      "description": {
+        "text":"挖掘榜",
+        "color":"red",
+        "bold":true
+      }
+    }
+  }
