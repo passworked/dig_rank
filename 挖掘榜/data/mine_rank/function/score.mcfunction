@@ -17,6 +17,7 @@ scoreboard objectives add iron_pickaxe used:iron_pickaxe
 scoreboard objectives add iron_axe used:iron_axe
 scoreboard objectives add iron_shovel used:iron_shovel
 scoreboard objectives add iron_hoe used:iron_hoe
+scoreboard objectives add shears used:shears
 
 scoreboard objectives add stone_pickaxe used:stone_pickaxe
 scoreboard objectives add stone_axe used:stone_axe
@@ -27,7 +28,6 @@ scoreboard objectives add wooden_pickaxe used:wooden_pickaxe
 scoreboard objectives add wooden_axe used:wooden_axe
 scoreboard objectives add wooden_shovel used:wooden_shovel
 scoreboard objectives add wooden_hoe used:wooden_hoe
-
 
 scoreboard objectives add dig_numbers dummy {"text":"挖掘榜"}
 
